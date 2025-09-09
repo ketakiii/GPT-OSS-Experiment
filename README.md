@@ -5,7 +5,7 @@ This repository contains GPT-OSS experiments, from the basic HuggingFace setup t
 - Part 1: [GPT-OSS Architecture, Code Flow, GPU Setup and More!](https://medium.com/@ketaki.kolhatkar99/gpt-oss-architecture-code-flow-gpu-setup-and-more-a71d06d8bf71)
 - Part 2: [GPT OSS Part 2: HuggingFace Setup, PEFT and Gated Experts]()
 
-Repository Structure
+## Repository Structure
 
 OpenAI_Huggingface.ipynb
 Based on the OpenAI Cookbook, this notebook walks through:
