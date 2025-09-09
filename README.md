@@ -1,16 +1,16 @@
 # GPT-OSS-Experiment
 This repository contains experiments with GPT-OSS, starting from the basic HuggingFace setup to extending the model with a custom gated LoRA architecture.
 
-📂 Repository Structure
+Repository Structure
 
-01_gpt_oss_setup.ipynb
+OpenAI_Huggingface.ipynb
 Based on the OpenAI Cookbook,this notebook walks through:
 - Setting up GPT-OSS with HuggingFace
 - Loading pretrained weights
 - Running simple multilingual reasoning examples
 - GPU environment setup (tested on NVIDIA H200, compatible with H100)
 
-02_gated_lora_model.ipynb
+gated-lora-oss.ipynb
 Our extension of GPT-OSS with a Gated LoRA Model, which introduces:
 - Parameter-efficient fine-tuning using LoRA
 - A gating mechanism that dynamically selects expert layers
