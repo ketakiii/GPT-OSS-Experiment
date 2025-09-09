@@ -27,6 +27,6 @@ Below is the high-level architecture of the Gated LoRA Model we implemented:
 <img width="692" height="1006" alt="arch1" src="https://github.com/user-attachments/assets/af2f0c8a-0ee9-43e0-afa6-7f407b8c467e" />
 
 
-Key Takeaways
+## Key Takeaways
 
 Open-source LLMs like GPT-OSS provide a powerful playground for experimentation. LoRA allows scaling fine-tuning without massive compute overhead. Gated networks enable specialization of experts, improving adaptability for custom tasks.
