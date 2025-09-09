@@ -1,10 +1,10 @@
 # GPT-OSS-Experiment
-This repository contains experiments with GPT-OSS, starting from the basic HuggingFace setup to extending the model with a custom gated LoRA architecture.
+This repository contains GPT-OSS experiments, from the basic HuggingFace setup to extending the model with a custom gated LoRA architecture.
 
 Repository Structure
 
 OpenAI_Huggingface.ipynb
-Based on the OpenAI Cookbook,this notebook walks through:
+Based on the OpenAI Cookbook, this notebook walks through:
 - Setting up GPT-OSS with HuggingFace
 - Loading pretrained weights
 - Running simple multilingual reasoning examples
@@ -20,6 +20,8 @@ Our extension of GPT-OSS with a Gated LoRA Model, which introduces:
 ## Architecture
 
 Below is the high-level architecture of the Gated LoRA Model we implemented:
+<img width="692" height="1006" alt="arch1" src="https://github.com/user-attachments/assets/af2f0c8a-0ee9-43e0-afa6-7f407b8c467e" />
+
 
 Key Takeaways
 
