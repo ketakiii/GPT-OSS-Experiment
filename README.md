@@ -1,6 +1,10 @@
 # GPT-OSS-Experiment
 This repository contains GPT-OSS experiments, from the basic HuggingFace setup to extending the model with a custom gated LoRA architecture.
 
+## Blogs
+- Part 1: [GPT-OSS Architecture, Code Flow, GPU Setup and More!](https://medium.com/@ketaki.kolhatkar99/gpt-oss-architecture-code-flow-gpu-setup-and-more-a71d06d8bf71)
+- Part 2: [GPT OSS Part 2: HuggingFace Setup, PEFT and Gated Experts]()
+
 Repository Structure
 
 OpenAI_Huggingface.ipynb
@@ -26,8 +30,3 @@ Below is the high-level architecture of the Gated LoRA Model we implemented:
 Key Takeaways
 
 Open-source LLMs like GPT-OSS provide a powerful playground for experimentation. LoRA allows scaling fine-tuning without massive compute overhead. Gated networks enable specialization of experts, improving adaptability for custom tasks.
-
-🔗 Blogs
-
-Part 1: [GPT-OSS Architecture, Code Flow, GPU Setup and More!](https://medium.com/@ketaki.kolhatkar99/gpt-oss-architecture-code-flow-gpu-setup-and-more-a71d06d8bf71)
-Part 2: [GPT OSS Part 2: HuggingFace Setup, PEFT and Gated Experts]()
