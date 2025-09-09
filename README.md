@@ -3,7 +3,7 @@ This repository contains GPT-OSS experiments, from the basic HuggingFace setup t
 
 ## Blogs
 - Part 1: [GPT-OSS Architecture, Code Flow, GPU Setup and More!](https://medium.com/@ketaki.kolhatkar99/gpt-oss-architecture-code-flow-gpu-setup-and-more-a71d06d8bf71)
-- Part 2: [GPT OSS Part 2: HuggingFace Setup, PEFT and Gated Experts]()
+- Part 2: [GPT OSS Part 2: HuggingFace Setup, PEFT and Gated Experts](https://medium.com/@ketaki.kolhatkar99/gpt-oss-part-2-huggingface-setup-peft-and-gated-experts-a0e553ee9632)
 
 ## Repository Structure
 
